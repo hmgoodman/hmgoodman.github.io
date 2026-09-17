@@ -2,7 +2,7 @@
 title: "POE2 0.5.5 심연 서판 옵션 우선순위"
 date: 2026-09-17T07:25:00+09:00
 draft: false
-tags: ["POE2", "0.5.5", "심연", "Abyss", "서판"]
+tags: ["0.5.5", "심연", "서판"]
 categories: ["POE2"]
 ---
 

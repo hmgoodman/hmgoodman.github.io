@@ -2,7 +2,7 @@
 title: "POE2 0.5.5 대탐험 서판 옵션 우선순위"
 date: 2026-09-17T07:50:00+09:00
 draft: false
-tags: ["POE2", "0.5.5", "대탐험", "Expedition", "서판"]
+tags: ["0.5.5", "대탐험", "서판"]
 categories: ["POE2"]
 ---
 

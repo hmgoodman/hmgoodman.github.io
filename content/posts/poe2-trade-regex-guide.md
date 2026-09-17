@@ -2,7 +2,7 @@
 title: "POE2 거래소/상점 정규식 사용법"
 date: 2026-09-17T08:40:00+09:00
 draft: false
-tags: ["POE2", "정규식", "regex", "스태시", "경로석"]
+tags: ["정규식", "스태시", "경로석"]
 categories: ["POE2"]
 ---
 

@@ -2,7 +2,7 @@
 title: "POE2 0.5.5 대탐험(Expedition) 파밍 가이드"
 date: 2026-09-17T07:00:00+09:00
 draft: false
-tags: ["POE2", "0.5.5", "대탐험", "Expedition", "파밍가이드"]
+tags: ["0.5.5", "대탐험", "파밍가이드"]
 categories: ["POE2"]
 ---
 

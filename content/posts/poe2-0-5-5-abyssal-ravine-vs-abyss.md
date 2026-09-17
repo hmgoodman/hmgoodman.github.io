@@ -2,7 +2,7 @@
 title: "POE2 심연협곡과 일반 심연 차이"
 date: 2026-09-17T08:15:00+09:00
 draft: false
-tags: ["POE2", "0.5.5", "심연협곡", "Abyssal Ravine", "심연"]
+tags: ["0.5.5", "심연협곡", "심연"]
 categories: ["POE2"]
 ---
 

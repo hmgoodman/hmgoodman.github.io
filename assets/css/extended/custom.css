@@ -1,0 +1,137 @@
+/* Mobile-friendly tables: scroll horizontally instead of breaking the layout */
+.md-content table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Home page intro */
+.home-intro {
+    margin-bottom: var(--content-gap);
+}
+
+/* Home page sections (POE2 / NIKKE / 전체 최신 글) */
+.home-section {
+    margin-bottom: calc(var(--content-gap) * 1.5);
+}
+
+.home-section-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-bottom: 8px;
+}
+
+.home-section-head h2 {
+    font-size: 20px;
+    margin: 0;
+}
+
+.home-more {
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+.home-card-grid {
+    display: grid;
+    gap: 14px;
+}
+
+@media (min-width: 720px) {
+    .home-card-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.home-card-grid .post-entry {
+    margin: 0;
+}
+
+.home-empty {
+    color: var(--secondary);
+    font-size: 14px;
+}
+
+/* Home page bottom section: categories / popular tags / recent posts */
+.home-aside {
+    display: grid;
+    gap: 20px;
+    margin-top: calc(var(--content-gap) * 1.5);
+    padding-top: var(--content-gap);
+    border-top: 1px solid var(--border);
+}
+
+@media (min-width: 720px) {
+    .home-aside {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+.home-aside-block h3 {
+    font-size: 16px;
+    margin: 0 0 8px;
+}
+
+.home-aside-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.home-aside-list li a {
+    font-size: 14px;
+}
+
+.home-aside-list .count {
+    color: var(--secondary);
+    font-size: 13px;
+}
+
+.home-aside-tags {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.home-aside-tags li a {
+    display: inline-block;
+    padding: 3px 10px;
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    font-size: 13px;
+}
+
+/* 404 page (overrides theme's absolute-positioned, font-size:160px .not-found) */
+.not-found {
+    position: static;
+    height: auto;
+    display: block;
+    text-align: center;
+    padding: 60px 0;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.not-found h1 {
+    font-size: 64px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.not-found-links {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+    justify-content: center;
+}

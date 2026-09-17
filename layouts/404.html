@@ -1,0 +1,12 @@
+{{- define "main" }}
+<div class="not-found">
+    <h1>404</h1>
+    <p>페이지를 찾을 수 없습니다.</p>
+    <ul class="not-found-links">
+        <li><a href="{{ "/" | relURL }}">홈</a></li>
+        <li><a href="{{ "categories/poe2/" | relURL }}">POE2</a></li>
+        <li><a href="{{ "categories/nikke/" | relURL }}">NIKKE</a></li>
+        <li><a href="{{ "search/" | relURL }}">검색</a></li>
+    </ul>
+</div>
+{{- end }}{{/* end main */}}

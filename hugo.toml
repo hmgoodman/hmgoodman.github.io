@@ -1,10 +1,65 @@
 baseURL = "https://hmgoodman.github.io/"
 languageCode = "ko-kr"
+defaultContentLanguage = "ko"
 title = "게임 메모장"
 theme = "PaperMod"
 
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
+  env = "production"
+  description = "POE2, 니케(NIKKE) 등 게임 파밍/공략/초보 가이드를 정리하는 게임 정보 블로그"
   defaultTheme = "auto"
+  mainSections = ["posts"]
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
+  ShowToc = true
+  TocOpen = true
+  ShowBreadCrumbs = true
+  ShowRssButtonInSectionTermList = true
+
+  # Google Search Console 소유권 확인용. 토큰을 전달받으면 SiteVerificationTag 값만 채워 넣으면 바로 적용됨.
+  # (예: SiteVerificationTag = "abc123...") 값이 비어 있으면 태그 자체가 렌더링되지 않는다.
+  [params.analytics.google]
+    SiteVerificationTag = ""
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "홈"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "poe2"
+    name = "POE2"
+    url = "/categories/poe2/"
+    weight = 20
+  [[menu.main]]
+    identifier = "nikke"
+    name = "NIKKE"
+    url = "/categories/nikke/"
+    weight = 30
+  [[menu.main]]
+    identifier = "posts"
+    name = "전체 글"
+    url = "/posts/"
+    weight = 40
+  [[menu.main]]
+    identifier = "tags"
+    name = "태그"
+    url = "/tags/"
+    weight = 50
+  [[menu.main]]
+    identifier = "search"
+    name = "검색"
+    url = "/search/"
+    weight = 60
