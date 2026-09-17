@@ -14,8 +14,14 @@ buildFuture = false
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[services]
+  [services.googleAnalytics]
+    ID = "G-P8TR3GWWN4"
+
 [params]
-  env = "production"
+  # env을 강제로 "production"으로 고정하지 않는다 — `hugo`/`hugo --minify`(배포 빌드)는
+  # hugo.IsProduction이 기본값으로 이미 true라 별도 설정이 필요 없고, 여기서 고정해버리면
+  # `hugo server`로 로컬에서 미리 볼 때도 Search Console 색인 허용과 GA4 추적이 강제로 켜져버린다.
   description = "POE2, 니케(NIKKE) 등 게임 파밍/공략/초보 가이드를 정리하는 게임 정보 블로그"
   defaultTheme = "auto"
   mainSections = ["posts"]
