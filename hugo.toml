@@ -30,7 +30,7 @@ buildFuture = false
   # Google Search Console 소유권 확인용. 토큰을 전달받으면 SiteVerificationTag 값만 채워 넣으면 바로 적용됨.
   # (예: SiteVerificationTag = "abc123...") 값이 비어 있으면 태그 자체가 렌더링되지 않는다.
   [params.analytics.google]
-    SiteVerificationTag = ""
+    SiteVerificationTag = "NVJ8wj12xam-e3ZShTeanCPccN4dh22JdTUz0vVljwE"
 
 [menu]
   [[menu.main]]
