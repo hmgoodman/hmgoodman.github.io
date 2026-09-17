@@ -32,6 +32,11 @@ buildFuture = false
   [params.analytics.google]
     SiteVerificationTag = "NVJ8wj12xam-e3ZShTeanCPccN4dh22JdTUz0vVljwE"
 
+  # 네이버 서치어드바이저 소유권 확인용. 토큰을 전달받으면 SiteVerificationTag 값만 채워 넣으면 바로 적용됨.
+  # HTML 파일 방식으로 인증할 경우 해당 파일을 static/ 아래에 추가하면 된다(별도 설정 불필요).
+  [params.analytics.naver]
+    SiteVerificationTag = ""
+
 [menu]
   [[menu.main]]
     identifier = "home"
