@@ -15,24 +15,24 @@ categories: ["POE1"]
 
 | 버전 | 날짜 | 리그/업데이트명 | 공식 패치노트 |
 |---|---|---|---|
-| 3.29.0 | 2026-07-16 | Curse of the Allflame | [링크](https://www.pathofexile.com/forum/view-thread/3985332) |
-| 3.28.0 | 2026-02-26 | Mirage | [링크](https://www.pathofexile.com/forum/view-thread/3913392) |
+| 3.29.0 | 2026-07-16 | Curse of the Allflame (올플레임의 저주) | [링크](https://www.pathofexile.com/forum/view-thread/3985332) |
+| 3.28.0 | 2026-02-26 | Mirage (허상) | [링크](https://www.pathofexile.com/forum/view-thread/3913392) |
 | 3.27.0 | 2025-10-31 | Keepers of the Flame | [링크](https://www.pathofexile.com/forum/view-thread/3869068) |
 | 3.26.0 | 2025-06-13 | Secrets of the Atlas | [링크](https://www.pathofexile.com/forum/view-thread/3787013) |
 | 3.25.0 | 2024-07-18 | Settlers of Kalguur | [링크](https://www.pathofexile.com/forum/view-thread/3531661) |
 
-날짜는 패치노트가 포럼에 게시된 날짜 기준이며, 실제 리그 시작일은 보통 며칠 뒤다(예: 3.29.0은 패치노트 게시 7/16, 리그 시작 7/24).
+날짜는 패치노트가 포럼에 게시된 날짜 기준이며, 실제 리그 시작일은 보통 며칠 뒤다(예: 3.29.0은 패치노트 게시 7/16, 리그 시작 7/24). 괄호 안 한글명은 국내 공식 퍼블리셔 카카오게임즈 보도자료 기준이다 — Keepers of the Flame, Secrets of the Atlas, Settlers of Kalguur는 공식 한글명을 확인하지 못해 영문 그대로 뒀다.
 
 ## 버전별 주요 후속 패치
 
 메이저 버전 이후 나온 알파벳/마이너 패치 중 의미 있는 것만 모았다. 단순 "Hotfix N" 형태의 자잘한 긴급 수정은 생략했다.
 
-**3.29.x (Curse of the Allflame)**
+**3.29.x (Curse of the Allflame · 올플레임의 저주)**
 - [3.29.1 Patch Notes](https://www.pathofexile.com/forum/view-thread/3991672) — 2026-07-30
 - [3.29.2 Patch Notes](https://www.pathofexile.com/forum/view-thread/3994431) — 2026-08-06
 - [3.29.3 Patch Notes](https://www.pathofexile.com/forum/view-thread/3996516) — 2026-08-13
 
-**3.28.x (Mirage)**
+**3.28.x (Mirage · 허상)**
 - [3.28.0b Patch Notes](https://www.pathofexile.com/forum/view-thread/3918360) — 2026-03-11
 - [3.28.0c Patch Notes](https://www.pathofexile.com/forum/view-thread/3921511) — 2026-03-18
 - [3.28.0h Patch Notes](https://www.pathofexile.com/forum/view-thread/3930450) — 2026-05-08
@@ -64,3 +64,4 @@ categories: ["POE1"]
 **공식**
 - [Patch Notes – Forum – Path of Exile](https://www.pathofexile.com/forum/view-forum/patch-notes)
 - 위 표·목록의 각 링크 (pathofexile.com/forum/view-thread/...)
+- 국내 한글 리그명: [카카오게임즈 '패스 오브 엑자일' 보도자료 – 게임뷰](https://www.gamevu.co.kr/news/articleView.html?idxno=59436)
