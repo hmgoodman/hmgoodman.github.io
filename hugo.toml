@@ -49,6 +49,11 @@ buildFuture = false
     url = "/categories/poe2/"
     weight = 20
   [[menu.main]]
+    identifier = "poe1"
+    name = "POE1"
+    url = "/categories/poe1/"
+    weight = 25
+  [[menu.main]]
     identifier = "nikke"
     name = "NIKKE"
     url = "/categories/nikke/"
