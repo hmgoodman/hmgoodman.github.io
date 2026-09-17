@@ -1,6 +1,6 @@
 ---
 title: "POE2 0.5.5 심연협곡(Abyssal Ravine) 파밍 가이드"
-date: 2026-09-17T18:00:00+09:00
+date: 2026-09-17T09:15:00+09:00
 draft: false
 tags: ["POE2", "패스오브엑자일2", "심연", "Abyss", "파밍가이드", "0.5.5"]
 categories: ["Path of Exile 2"]
