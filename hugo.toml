@@ -1,0 +1,10 @@
+baseURL = "https://hmgoodman.github.io/"
+languageCode = "ko-kr"
+title = "게임 메모장"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
