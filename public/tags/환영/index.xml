@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>딜리리움 on 게임 메모장</title><link>https://hmgoodman.github.io/tags/%EB%94%9C%EB%A6%AC%EB%A6%AC%EC%9B%80/</link><description>Recent content in 딜리리움 on 게임 메모장</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Thu, 17 Sep 2026 09:05:00 +0900</lastBuildDate><atom:link href="https://hmgoodman.github.io/tags/%EB%94%9C%EB%A6%AC%EB%A6%AC%EC%9B%80/index.xml" rel="self" type="application/rss+xml"/><item><title>POE2 0.5.5 파밍법 비교 - 심연 / 대탐험 / 의식 / 브리치 / 딜리리움</title><link>https://hmgoodman.github.io/posts/poe2-0-5-5-farming-methods-comparison/</link><pubDate>Thu, 17 Sep 2026 09:05:00 +0900</pubDate><guid>https://hmgoodman.github.io/posts/poe2-0-5-5-farming-methods-comparison/</guid><description>&lt;p&gt;짧은 요약:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>환영 on 게임 메모장</title><link>https://hmgoodman.github.io/tags/%ED%99%98%EC%98%81/</link><description>Recent content in 환영 on 게임 메모장</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Thu, 17 Sep 2026 09:05:00 +0900</lastBuildDate><atom:link href="https://hmgoodman.github.io/tags/%ED%99%98%EC%98%81/index.xml" rel="self" type="application/rss+xml"/><item><title>POE2 0.5.5 파밍법 비교 - 심연 / 대탐험 / 의식 / 균열 / 환영</title><link>https://hmgoodman.github.io/posts/poe2-0-5-5-farming-methods-comparison/</link><pubDate>Thu, 17 Sep 2026 09:05:00 +0900</pubDate><guid>https://hmgoodman.github.io/posts/poe2-0-5-5-farming-methods-comparison/</guid><description>&lt;p&gt;짧은 요약:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;진입 장벽이 가장 낮은 건 &lt;strong&gt;브리치&lt;/strong&gt;, 요구 스펙이 가장 높은 건 &lt;strong&gt;대탐험&lt;/strong&gt;이다.&lt;/li&gt;
-&lt;li&gt;초보는 &lt;strong&gt;브리치 → 심연/딜리리움 → (스펙 갖춘 뒤) 대탐험&lt;/strong&gt; 순으로 넘어가는 걸 추천.&lt;/li&gt;
+&lt;li&gt;진입 장벽이 가장 낮은 건 &lt;strong&gt;균열&lt;/strong&gt;, 요구 스펙이 가장 높은 건 &lt;strong&gt;대탐험&lt;/strong&gt;이다.&lt;/li&gt;
+&lt;li&gt;초보는 &lt;strong&gt;균열 → 심연/환영 → (스펙 갖춘 뒤) 대탐험&lt;/strong&gt; 순으로 넘어가는 걸 추천.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;의식&lt;/strong&gt;은 현재 니치 전략으로 분류되는 경우가 많다(오멘 시세에 좌우됨).&lt;/li&gt;
 &lt;li&gt;정확한 시간당 수익 수치는 빌드·숙련도·시세에 따라 편차가 커서 이 글에는 넣지 않았다.&lt;/li&gt;
 &lt;/ul&gt;
@@ -17,8 +17,8 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;브리치&lt;/td&gt;
-&lt;td&gt;브리치 서판&lt;/td&gt;
+&lt;td&gt;균열&lt;/td&gt;
+&lt;td&gt;균열 서판&lt;/td&gt;
 &lt;td&gt;낮음 — 균열 안정화 후 처치만 하면 됨&lt;/td&gt;
 &lt;td&gt;좋음&lt;/td&gt;
 &lt;/tr&gt;
@@ -29,8 +29,8 @@
 &lt;td&gt;좋음&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;딜리리움&lt;/td&gt;
-&lt;td&gt;딜리리움 서판&lt;/td&gt;
+&lt;td&gt;환영&lt;/td&gt;
+&lt;td&gt;환영 서판&lt;/td&gt;
 &lt;td&gt;중간 — 안개 범위 안에서 몬스터 처치 유지&lt;/td&gt;
 &lt;td&gt;괜찮음 (극한 장비 불필요)&lt;/td&gt;
 &lt;/tr&gt;
@@ -49,5 +49,5 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id="상세-설명"&gt;상세 설명&lt;/h2&gt;
-&lt;h3 id="브리치"&gt;브리치&lt;/h3&gt;
+&lt;h3 id="균열"&gt;균열&lt;/h3&gt;
 &lt;p&gt;서판(하이블러드 계열) 몇 장만 있어도 굴릴 수 있어 진입 장벽이 낮다고 평가된다(커뮤니티 제보). 0.5.5에서 불안정 균열을 안정화하면 희귀 몬스터가 한 번에 다 나오지 않고 &lt;strong&gt;5마리씩 웨이브로&lt;/strong&gt; 등장하도록 바뀌어, 순간 물몸이 몰리는 위험이 줄었다(공식 패치노트).&lt;/p&gt;</description></item></channel></rss>

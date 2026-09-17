@@ -19,7 +19,7 @@ categories: ["POE2"]
 | 0.5.5b | 2026-09-11 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/4004106) | 0.5.5 후속 패치 |
 | 0.5.5 | 2026-09-03 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/4000864) | 포비든 라이츠(Forbidden Rites) 이벤트 리그 |
 | 0.5.4 | 2026-06-24 (확인 필요) | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3975218) | 대탐험 아틀라스 패시브 관련 개편 |
-| 0.5.3 | 2026-06-18 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3968601) | 엔드게임 보상 개선(심연·브리치·딜리리움 등) |
+| 0.5.3 | 2026-06-18 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3968601) | 엔드게임 보상 개선(심연·균열·환영 등) |
 | 0.5.2 | 2026-06-11 (확인 필요) | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3960376) | — |
 | 0.5.1 | 2026-06-04 (확인 필요) | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3949114) | — |
 | 0.5.0 | 2026-05-29 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3932540) | 리턴 오브 디 에인션츠(Return of the Ancients) |

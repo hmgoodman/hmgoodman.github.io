@@ -9,10 +9,10 @@
 &lt;pre tabindex="0"&gt;&lt;code&gt;정화.*희|유적.*룬|시물|묻힌|발굴.*희|헌정.*변|지하.*확|추가.*희귀|금고.*2개|등대.*고유|속성.*2개
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;7종 서판에서 &amp;ldquo;고가 후보&amp;quot;로 꼽히는 옵션 조각을 한 번에 훑는 압축형이다. 검색 결과가 많으면 아래 서판별 정규식으로 좁혀서 다시 본다.&lt;/p&gt;</description></item><item><title>POE2 0.5.5 심연협곡(Abyssal Ravine) 파밍 가이드</title><link>https://hmgoodman.github.io/posts/poe2-0-5-5-abyssal-ravine-farming-guide/</link><pubDate>Thu, 17 Sep 2026 09:15:00 +0900</pubDate><guid>https://hmgoodman.github.io/posts/poe2-0-5-5-abyssal-ravine-farming-guide/</guid><description>&lt;h2 id="1-심연협곡이란"&gt;1. 심연협곡이란&lt;/h2&gt;
 &lt;p&gt;패스 오브 엑자일 2 **0.5.5 패치(포비든 라이츠, 2026년 9월 4일 출시)**에서 아틀라스에 **대형 심연협곡(Large Abyssal Ravine)**이 새로 추가됐다. 아틀라스 화면에 길게 이어진 녹색 경로로 표시되며, 이 경로 위에 놓인 맵은 심연(Abyss)이 확정으로 등장한다.&lt;/p&gt;
-&lt;p&gt;협곡을 따라 맵을 하나씩 클리어하면 다음 맵의 보상이 강화되고, 협곡 끝까지 도달하면 심연 보스가 확정으로 등장한다. 다만 이 누적 효과가 구체적으로 어떤 수치로, 어떻게 중첩되는지는 공식적으로 상세히 공개된 바가 없어 &lt;strong&gt;정확한 중첩 규칙은 확실치 않음&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>POE2 0.5.5 파밍법 비교 - 심연 / 대탐험 / 의식 / 브리치 / 딜리리움</title><link>https://hmgoodman.github.io/posts/poe2-0-5-5-farming-methods-comparison/</link><pubDate>Thu, 17 Sep 2026 09:05:00 +0900</pubDate><guid>https://hmgoodman.github.io/posts/poe2-0-5-5-farming-methods-comparison/</guid><description>&lt;p&gt;짧은 요약:&lt;/p&gt;
+&lt;p&gt;협곡을 따라 맵을 하나씩 클리어하면 다음 맵의 보상이 강화되고, 협곡 끝까지 도달하면 심연 보스가 확정으로 등장한다. 다만 이 누적 효과가 구체적으로 어떤 수치로, 어떻게 중첩되는지는 공식적으로 상세히 공개된 바가 없어 &lt;strong&gt;정확한 중첩 규칙은 확실치 않음&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>POE2 0.5.5 파밍법 비교 - 심연 / 대탐험 / 의식 / 균열 / 환영</title><link>https://hmgoodman.github.io/posts/poe2-0-5-5-farming-methods-comparison/</link><pubDate>Thu, 17 Sep 2026 09:05:00 +0900</pubDate><guid>https://hmgoodman.github.io/posts/poe2-0-5-5-farming-methods-comparison/</guid><description>&lt;p&gt;짧은 요약:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;진입 장벽이 가장 낮은 건 &lt;strong&gt;브리치&lt;/strong&gt;, 요구 스펙이 가장 높은 건 &lt;strong&gt;대탐험&lt;/strong&gt;이다.&lt;/li&gt;
-&lt;li&gt;초보는 &lt;strong&gt;브리치 → 심연/딜리리움 → (스펙 갖춘 뒤) 대탐험&lt;/strong&gt; 순으로 넘어가는 걸 추천.&lt;/li&gt;
+&lt;li&gt;진입 장벽이 가장 낮은 건 &lt;strong&gt;균열&lt;/strong&gt;, 요구 스펙이 가장 높은 건 &lt;strong&gt;대탐험&lt;/strong&gt;이다.&lt;/li&gt;
+&lt;li&gt;초보는 &lt;strong&gt;균열 → 심연/환영 → (스펙 갖춘 뒤) 대탐험&lt;/strong&gt; 순으로 넘어가는 걸 추천.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;의식&lt;/strong&gt;은 현재 니치 전략으로 분류되는 경우가 많다(오멘 시세에 좌우됨).&lt;/li&gt;
 &lt;li&gt;정확한 시간당 수익 수치는 빌드·숙련도·시세에 따라 편차가 커서 이 글에는 넣지 않았다.&lt;/li&gt;
 &lt;/ul&gt;
@@ -28,8 +28,8 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;브리치&lt;/td&gt;
-&lt;td&gt;브리치 서판&lt;/td&gt;
+&lt;td&gt;균열&lt;/td&gt;
+&lt;td&gt;균열 서판&lt;/td&gt;
 &lt;td&gt;낮음 — 균열 안정화 후 처치만 하면 됨&lt;/td&gt;
 &lt;td&gt;좋음&lt;/td&gt;
 &lt;/tr&gt;
@@ -40,8 +40,8 @@
 &lt;td&gt;좋음&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;딜리리움&lt;/td&gt;
-&lt;td&gt;딜리리움 서판&lt;/td&gt;
+&lt;td&gt;환영&lt;/td&gt;
+&lt;td&gt;환영 서판&lt;/td&gt;
 &lt;td&gt;중간 — 안개 범위 안에서 몬스터 처치 유지&lt;/td&gt;
 &lt;td&gt;괜찮음 (극한 장비 불필요)&lt;/td&gt;
 &lt;/tr&gt;
@@ -60,7 +60,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id="상세-설명"&gt;상세 설명&lt;/h2&gt;
-&lt;h3 id="브리치"&gt;브리치&lt;/h3&gt;
+&lt;h3 id="균열"&gt;균열&lt;/h3&gt;
 &lt;p&gt;서판(하이블러드 계열) 몇 장만 있어도 굴릴 수 있어 진입 장벽이 낮다고 평가된다(커뮤니티 제보). 0.5.5에서 불안정 균열을 안정화하면 희귀 몬스터가 한 번에 다 나오지 않고 &lt;strong&gt;5마리씩 웨이브로&lt;/strong&gt; 등장하도록 바뀌어, 순간 물몸이 몰리는 위험이 줄었다(공식 패치노트).&lt;/p&gt;</description></item><item><title>POE2 심연협곡과 일반 심연 차이</title><link>https://hmgoodman.github.io/posts/poe2-0-5-5-abyssal-ravine-vs-abyss/</link><pubDate>Thu, 17 Sep 2026 08:15:00 +0900</pubDate><guid>https://hmgoodman.github.io/posts/poe2-0-5-5-abyssal-ravine-vs-abyss/</guid><description>&lt;p&gt;짧은 요약:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;일반 심연&lt;/strong&gt;은 맵에 무작위로 등장하거나 심연 서판으로 확정 생성하는 단발성 콘텐츠다.&lt;/li&gt;

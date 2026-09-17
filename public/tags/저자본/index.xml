@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>저자본 on 게임 메모장</title><link>https://hmgoodman.github.io/tags/%EC%A0%80%EC%9E%90%EB%B3%B8/</link><description>Recent content in 저자본 on 게임 메모장</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Thu, 17 Sep 2026 10:20:00 +0900</lastBuildDate><atom:link href="https://hmgoodman.github.io/tags/%EC%A0%80%EC%9E%90%EB%B3%B8/index.xml" rel="self" type="application/rss+xml"/><item><title>POE2 저자본 파밍 추천</title><link>https://hmgoodman.github.io/posts/poe2-low-budget-farming/</link><pubDate>Thu, 17 Sep 2026 10:20:00 +0900</pubDate><guid>https://hmgoodman.github.io/posts/poe2-low-budget-farming/</guid><description>&lt;p&gt;짧은 요약:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;자본이 거의 없을 때는 &lt;strong&gt;브리치&lt;/strong&gt;와 &lt;strong&gt;딜리리움&lt;/strong&gt;부터 시작하는 걸 추천한다 — 진입 장벽이 낮고 극한 장비를 요구하지 않는다.&lt;/li&gt;
+&lt;li&gt;자본이 거의 없을 때는 &lt;strong&gt;균열&lt;/strong&gt;과 &lt;strong&gt;환영&lt;/strong&gt;부터 시작하는 걸 추천한다 — 진입 장벽이 낮고 극한 장비를 요구하지 않는다.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;대탐험&lt;/strong&gt;은 고자본·고스펙 콘텐츠라 저자본 시기엔 리스크가 크다.&lt;/li&gt;
 &lt;li&gt;서판을 적게 투입해도 굴러가는 콘텐츠부터 시작해서, 번 돈을 다시 서판/경로석에 재투자하는 순서로 키운다.&lt;/li&gt;
 &lt;/ul&gt;
@@ -16,13 +16,13 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;브리치&lt;/td&gt;
+&lt;td&gt;균열&lt;/td&gt;
 &lt;td&gt;적음(커뮤니티 제보: 4장 수준)&lt;/td&gt;
 &lt;td&gt;높음&lt;/td&gt;
 &lt;td&gt;진입 장벽이 낮다고 평가됨&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;딜리리움&lt;/td&gt;
+&lt;td&gt;환영&lt;/td&gt;
 &lt;td&gt;여러 장(커뮤니티 제보: 3장)&lt;/td&gt;
 &lt;td&gt;높음&lt;/td&gt;
 &lt;td&gt;극한 장비 없이도 진행 가능하다는 평가&lt;/td&gt;
@@ -48,5 +48,5 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id="상세-설명"&gt;상세 설명&lt;/h2&gt;
-&lt;h3 id="브리치부터-시작하는-이유"&gt;브리치부터 시작하는 이유&lt;/h3&gt;
-&lt;p&gt;브리치는 서판 몇 장만으로도 돌릴 수 있어 저자본 구간에서 가장 부담이 적다고 평가된다(커뮤니티 제보). 0.5.5에서 불안정 균열의 희귀 몬스터가 한 번에 몰려나오지 않고 5마리씩 웨이브로 나오게 바뀌어(공식 패치노트), 저스펙 빌드도 순간적으로 몰리는 위험이 줄었다.&lt;/p&gt;</description></item></channel></rss>
+&lt;h3 id="균열부터-시작하는-이유"&gt;균열부터 시작하는 이유&lt;/h3&gt;
+&lt;p&gt;균열은 서판 몇 장만으로도 돌릴 수 있어 저자본 구간에서 가장 부담이 적다고 평가된다(커뮤니티 제보). 0.5.5에서 불안정 균열의 희귀 몬스터가 한 번에 몰려나오지 않고 5마리씩 웨이브로 나오게 바뀌어(공식 패치노트), 저스펙 빌드도 순간적으로 몰리는 위험이 줄었다.&lt;/p&gt;</description></item></channel></rss>
