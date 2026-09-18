@@ -18,6 +18,21 @@ buildFuture = false
   [services.googleAnalytics]
     ID = "G-P8TR3GWWN4"
 
+# 관련 글 추천: categories를 가장 중요하게, tags를 그다음, date는 낮은 가중치로 참고만 한다.
+[related]
+  includeNewer = true
+  threshold = 20
+  toLower = false
+  [[related.indices]]
+    name = "categories"
+    weight = 100
+  [[related.indices]]
+    name = "tags"
+    weight = 80
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
 [params]
   # env을 강제로 "production"으로 고정하지 않는다 — `hugo`/`hugo --minify`(배포 빌드)는
   # hugo.IsProduction이 기본값으로 이미 true라 별도 설정이 필요 없고, 여기서 고정해버리면

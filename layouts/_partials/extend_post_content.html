@@ -1,0 +1,16 @@
+{{- $related := site.RegularPages.Related . | first 5 }}
+{{- with $related }}
+<section class="related-posts">
+    <h2>관련 글</h2>
+    <ul class="related-posts-list">
+        {{- range . }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{- with .Params.categories }}
+            <span class="related-posts-cat">{{ delimit . ", " }}</span>
+            {{- end }}
+        </li>
+        {{- end }}
+    </ul>
+</section>
+{{- end }}
