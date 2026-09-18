@@ -54,7 +54,7 @@ categories: ["NIKKE"]
 
 ## 출처
 
-**커뮤니티**
+### 커뮤니티 / 가이드
 - [니케 "2주년에 온 뉴비는 뭐부터 하나요?" – 게임톡](https://www.gametoc.co.kr/news/articleView.html?idxno=85753)
 - [스킬 레벨업 이것만은 알아두자 – 디스이즈게임](https://www.thisisgame.com/articles/207255)
 - [혹시 빼먹은 게 있나? 니케, 초보 지휘관이 놓치기 쉬운 팁 7선 – 니케 인벤](https://www.inven.co.kr/webzine/news/?news=302962&site=nikke)

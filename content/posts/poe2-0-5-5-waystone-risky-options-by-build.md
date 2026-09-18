@@ -69,5 +69,11 @@ categories: ["POE2"]
 
 ## 출처
 
-**커뮤니티**
+### 공식
+- 없음 — 이 글의 수치는 공식 패치노트로 교차 확인되지 않았다.
+
+### DB
+- 없음
+
+### 커뮤니티 / 가이드
 - [Rolling Waystones and Precursor Tablets – Maxroll](https://maxroll.gg/poe2/resources/rolling-waystones-and-precursor-tablets)

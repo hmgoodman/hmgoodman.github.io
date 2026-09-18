@@ -27,7 +27,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;아이템 수량 증가&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;드랍되는 아이템 개수 자체를 늘려준다. 희귀도와 곱연산으로 같이 붙으면 효율이 좋다.&lt;/td&gt;
+&lt;td&gt;드랍되는 아이템 개수 자체를 늘려준다. 희귀도와 같이 붙이면 효율이 좋다고 알려져 있다(정확한 합산 방식은 확실치 않음).&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

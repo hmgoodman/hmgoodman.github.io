@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>재화 on 게임 메모장</title><link>https://hmgoodman.github.io/tags/%EC%9E%AC%ED%99%94/</link><description>Recent content in 재화 on 게임 메모장</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Thu, 17 Sep 2026 14:30:00 +0900</lastBuildDate><atom:link href="https://hmgoodman.github.io/tags/%EC%9E%AC%ED%99%94/index.xml" rel="self" type="application/rss+xml"/><item><title>니케 재화 종류와 어디에 쓰는지 정리</title><link>https://hmgoodman.github.io/posts/nikke-currency-guide/</link><pubDate>Thu, 17 Sep 2026 14:30:00 +0900</pubDate><guid>https://hmgoodman.github.io/posts/nikke-currency-guide/</guid><description>&lt;p&gt;짧은 요약:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;니케 재화는 크게 **성장 재화(크레딧·배틀데이터·코어더스트), 뽑기 재화(쥬얼), 특수 콘텐츠 재화(소셜포인트·유니온칩·입장권)**로 나뉜다.&lt;/li&gt;
-&lt;li&gt;골드 마일리지(골드 티켓)는 범용성이 낮아 &lt;strong&gt;최후의 수단으로 아껴두는 게 정석&lt;/strong&gt;이다.&lt;/li&gt;
+&lt;li&gt;골드 마일리지 티켓은 &lt;strong&gt;200장을 모으면 마일리지 상점에서 그 시점에 픽업 중인(모집률이 오른) 니케 1기와 교환&lt;/strong&gt;할 수 있는 재화다.&lt;/li&gt;
 &lt;li&gt;이벤트 입장권은 대부분 &lt;strong&gt;이벤트 종료 시 소멸&lt;/strong&gt;하므로 종료 전에 다 쓰는 게 중요하다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="한눈에-보기"&gt;한눈에 보기&lt;/h2&gt;
@@ -35,9 +35,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;코어 더스트&lt;/td&gt;
-&lt;td&gt;전투 보상&lt;/td&gt;
-&lt;td&gt;캐릭터 육성&lt;/td&gt;
-&lt;td&gt;배틀 데이터와 함께 육성 필수 재화&lt;/td&gt;
+&lt;td&gt;전투 보상, 협동작전 등&lt;/td&gt;
+&lt;td&gt;싱크로 디바이스 레벨업&lt;/td&gt;
+&lt;td&gt;1레벨 상승당 대량 소모(예: 1만 개 단위)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;소셜 포인트&lt;/td&gt;
@@ -60,11 +60,11 @@
 &lt;tr&gt;
 &lt;td&gt;골드 마일리지&lt;/td&gt;
 &lt;td&gt;상점/이벤트&lt;/td&gt;
-&lt;td&gt;마일리지 상점 최후 교환&lt;/td&gt;
-&lt;td&gt;범용성 낮아 아껴서 사용 권장&lt;/td&gt;
+&lt;td&gt;마일리지 상점에서 현재 픽업 캐릭터 교환&lt;/td&gt;
+&lt;td&gt;200장 = 픽업 중인 니케 1기 교환(커뮤니티 제보)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id="상세-설명"&gt;상세 설명&lt;/h2&gt;
 &lt;h3 id="성장-재화-크레딧--배틀-데이터--코어-더스트"&gt;성장 재화 (크레딧 / 배틀 데이터 / 코어 더스트)&lt;/h3&gt;
-&lt;p&gt;캐릭터를 키우는 데 직접 들어가는 재화다. 셋 다 전투와 미션으로 쌓이지만, 배틀 데이터는 &lt;strong&gt;시뮬레이션 룸&lt;/strong&gt;을 매일 돌아야 안정적으로 확보된다. 하나라도 부족하면 다른 재화가 남아돌아도 육성이 막힌다.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;캐릭터를 키우는 데 직접 들어가는 재화다. 크레딧은 레벨업, 배틀 데이터는 스킬 관련 육성에 쓰이고, &lt;strong&gt;코어 더스트는 싱크로 디바이스 레벨업 전용 재화&lt;/strong&gt;다. 싱크로 디바이스는 1레벨 올릴 때마다 코어 더스트가 대량(전초기지 레벨이 낮을 땐 만 단위)으로 들어가서, 전초기지를 키워 코어 더스트 수급량 자체를 늘려두는 게 장기적으로 이득이다. 배틀 데이터는 &lt;strong&gt;시뮬레이션 룸&lt;/strong&gt;을 매일 돌아야 안정적으로 확보된다.&lt;/p&gt;</description></item></channel></rss>

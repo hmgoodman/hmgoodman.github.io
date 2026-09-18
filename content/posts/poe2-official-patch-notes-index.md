@@ -18,15 +18,15 @@ categories: ["POE2"]
 |---|---|---|---|
 | 0.5.5b | 2026-09-11 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/4004106) | 0.5.5 후속 패치 |
 | 0.5.5 | 2026-09-03 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/4000864) | 포비든 라이츠(Forbidden Rites) 이벤트 리그 |
-| 0.5.4 | 2026-06-24 (확인 필요) | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3975218) | 대탐험 아틀라스 패시브 관련 개편 |
+| 0.5.4 | 2026-06-25 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3975218) | 대탐험 아틀라스 패시브 관련 개편 |
 | 0.5.3 | 2026-06-18 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3968601) | 엔드게임 보상 개선(심연·균열·환영 등) |
-| 0.5.2 | 2026-06-11 (확인 필요) | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3960376) | — |
-| 0.5.1 | 2026-06-04 (확인 필요) | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3949114) | — |
+| 0.5.2 | 2026-06-12 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3960375) | — |
+| 0.5.1 | 2026-06-05 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3949114) | — |
 | 0.5.0 | 2026-05-29 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3932540) | 리턴 오브 디 에인션츠(Return of the Ancients) |
-| 0.4.0d | 2026-01-13 (확인 필요) | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3905675) | 0.4.0 후속 패치 |
-| 0.4.0 | 날짜 확인 필요 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3883495) | 더 라스트 오브 더 드루이즈(The Last of the Druids) |
+| 0.4.0d | 2026-01-14 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3905675) | 0.4.0 후속 패치 |
+| 0.4.0 | 2025-12-05 (라이브스트림 언급 기준, 정확한 포럼 게시 시각은 확인 필요) | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3883495) | 더 라스트 오브 더 드루이즈(The Last of the Druids) |
 | 0.3.0 | 날짜 확인 필요 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3826682) | 더 서드 에딕트(The Third Edict), 4막·비동기 거래 추가 |
-| 0.2.0f | 날짜 확인 필요 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3762865) | 0.2.0 후속 패치 |
+| 0.2.0f | 2025-04-16 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3762865) | 0.2.0 후속 패치 |
 | 0.2.0 | 날짜 확인 필요 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3740562) | 던 오브 더 헌트(Dawn of the Hunt) |
 | 0.1.1 | 날짜 확인 필요 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3695606) | — |
 | 0.1.0f | 2025-01-09 | [포럼 링크](https://www.pathofexile.com/forum/view-thread/3686378) | 0.1.0 후속 패치 |
@@ -55,5 +55,5 @@ categories: ["POE2"]
 
 ## 출처
 
-**공식**
+### 공식
 - [Early Access Patch Notes 포럼 – pathofexile.com](https://www.pathofexile.com/forum/view-forum/2212)

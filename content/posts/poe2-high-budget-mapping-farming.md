@@ -52,10 +52,10 @@ categories: ["POE2"]
 
 ## 출처
 
-**공식**
-- [Path of Exile 2 0.5.5 Patch Notes – pathofexile.gg](https://pathofexile.gg/0-5-5-patch-notes)
+### 공식
+- [Path of Exile 2 0.5.5 Patch Notes – pathofexile.com 공식 포럼](https://www.pathofexile.com/forum/view-thread/4000864)
 
-**커뮤니티**
+### 커뮤니티 / 가이드
 - [All Mechanics Farming Strategy – Mobalytics](https://mobalytics.gg/poe-2/profile/scorpius/atlas-trees/all-mechanics-farming-strategy)
 - [PoE 2 0.5.5 Expedition Farm: Tablets, Rumors, Logbooks, Atlas, Map Strategy – AOEAH](https://www.aoeah.com/news/4804--poe-2-055-expedition-farm-tablets-rumors-logbooks-atlas-map-strategy)
 - [5 Divine Budget T15+ SPD Mapping 0.5.5 Build – Mobalytics](https://mobalytics.gg/poe-2/builds/minions-starter-mattjestic)

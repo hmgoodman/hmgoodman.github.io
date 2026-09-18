@@ -23,12 +23,12 @@ categories: ["POE2"]
 
 심연 서판에는 여러 옵션이 붙는데, 파밍 효율에 직접 영향을 주는 건 아래 네 가지다.
 
-1. **지도에 무작위 속성 1~2개 추가** — 맵 배율(밀도·보상 등)을 전반적으로 끌어올리는 범용 옵션. 심연 전용이 아니라 서판 전반에 붙는 옵션이다.
-2. **심연에서 추가 희귀 몬스터 2~3마리 생성** — 0.5.5에서 'of Champions' 서판 옵션 수치가 기존 1~2마리에서 2~3마리로 상향됐다(공식 패치노트 확인). 보상량과 직결되는 만큼 최우선으로 챙길 옵션.
+1. **심연에서 추가 희귀 몬스터 2~3마리 생성** — 0.5.5에서 'of Champions' 서판 옵션 수치가 기존 1~2마리에서 2~3마리로 상향됐다(공식 패치노트 확인). 보상량과 직결되는 만큼 최우선으로 챙길 옵션.
+2. **심연 몬스터가 심연 속성(Abyssal Modifier)을 가질 확률 증가** — 심연 속성을 가진 몬스터는 처치 시 추가 보상이 있는 것으로 알려져 1번 옵션과 시너지가 좋다. 정확한 확률 수치는 확실치 않음.
 3. **심연 몬스터 수 증가** — 심연 구덩이 내 몬스터 전체 밀도를 올린다. 서판 개체별 정확한 수치 범위는 확실치 않음.
-4. **심연 몬스터가 심연 속성(Abyssal Modifier)을 가질 확률 증가** — 심연 속성을 가진 몬스터는 처치 시 추가 보상이 있는 것으로 알려져 2·3번 옵션과 시너지가 좋다. 정확한 확률 수치는 확실치 않음.
+4. **지도에 무작위 속성 1~2개 추가** — 맵 배율(밀도·보상 등)을 전반적으로 끌어올리는 범용 옵션. 심연 전용이 아니라 서판 전반에 붙는 옵션이라 우선순위가 가장 낮다.
 
-체감 우선순위는 대체로 **2 > 4 > 3 > 1** 순으로 언급되지만, 이는 커뮤니티 경험에 기반한 경향일 뿐 공식적으로 검증된 가중치는 아니다.
+이 순서는 커뮤니티 체감 우선순위이며, 1번(추가 희귀 몬스터)만 공식 패치노트로 수치가 확인됐고 나머지는 공식 가중치가 아니다. [심연 서판 옵션 우선순위](/posts/poe2-0-5-5-abyss-tablet-priority/) 글과 같은 기준으로 통일했다.
 
 ## 4. 경로석 옵션
 
@@ -66,8 +66,13 @@ categories: ["POE2"]
 
 ### 출처
 
-- [Path of Exile 2 0.5.5 Patch Notes – pathofexile.gg](https://pathofexile.gg/0-5-5-patch-notes)
+#### 공식
+- [Path of Exile 2 0.5.5 Patch Notes – pathofexile.com 포럼](https://www.pathofexile.com/forum/view-thread/4000864)
+
+#### DB
+- [Abyss Tablet – PoE2DB](https://poe2db.tw/us/Abyss_Tablet)
+
+#### 커뮤니티 / 가이드
 - [0.5.5 Forbidden Rites Patch Notes – Maxroll](https://maxroll.gg/poe2/news/0-5-5-forbidden-rites-patch-notes)
 - [Path of Exile 2 0.5.5 patch notes – Sportskeeda](https://www.sportskeeda.com/mmo/path-exile-2-0-5-5-patch-notes-forbidden-rites-event-runes-aldur-goes-core-ritual-changes-trial-chaos-rework)
 - [PoE2 Abyssal Ravines Farming Guide (0.5.5) – Timesaver.gg](https://timesaver.gg/blog/poe2-abyssal-ravines-farming-guide-0-5-5)
-- [Abyss Tablet – PoE2DB](https://poe2db.tw/us/Abyss_Tablet)

@@ -36,5 +36,5 @@ categories: ["NIKKE"]
 
 ## 출처
 
-**공식**
+### 공식
 - [니케 캐릭터 공식 키 정리 및 순위 (원본 글, 출처 상세 포함)](/posts/nikke-character-height-profile/)

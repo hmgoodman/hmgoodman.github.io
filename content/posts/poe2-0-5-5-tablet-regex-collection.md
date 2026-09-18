@@ -56,7 +56,7 @@ categories: ["POE2"]
 시물|묻힌|유적.*룬|발굴.*희|혼.*추
 ```
 
-아즈메리 혼백류 증가, 발굴 관련 희귀 옵션, 유적/룬 관련 옵션을 겨냥한다. [대탐험 서판 옵션 우선순위](/posts/poe2-0-5-5-expedition-tablet-priority/) 글의 증류된 감정(Distilled Emotion) 관련 내용과 함께 보면 좋다.
+아즈메리 혼백류 증가, 발굴 관련 희귀 옵션, 유적/룬 관련 옵션을 겨냥한다. [대탐험 서판 옵션 우선순위](/posts/poe2-0-5-5-expedition-tablet-priority/) 글과 함께 보면 좋다.
 
 ### 의식 서판
 
@@ -128,7 +128,7 @@ categories: ["POE2"]
 - 이 글의 정규식과 옵션 설명은 디시인사이드 원 게시물을 재구성한 것으로, 심연 서판 항목 외에는 공식 패치노트로 교차 확인하지 못했다.
 - "사원" 서판은 다른 출처에서 명확히 확인되지 않아 존재 자체를 확실치 않음으로 표시했다.
 - 게임 내 옵션 문구가 패치로 바뀌면 정규식이 더 이상 매치되지 않을 수 있다.
-- 정규식 검색창 글자 수 제한 등 기본 사용법은 [POE2 거래소/상점 정규식 사용법](/posts/poe2-trade-regex-guide/) 글을 참고.
+- 정규식 검색창 글자 수 제한 등 기본 사용법은 [POE2 인게임 창고/상점 정규식 사용법](/posts/poe2-trade-regex-guide/) 글을 참고.
 
 ## 3줄 요약
 
@@ -138,12 +138,10 @@ categories: ["POE2"]
 
 ## 출처
 
-**원본(커뮤니티)**
-- [POE2 0.5.5 서판 정규식 정리 – 디시인사이드 패스 오브 엑자일 2 마이너 갤러리](https://gall.dcinside.com/mgallery/board/view/?id=poe2&no=434179)
+### 공식
+- [0.5.5 Patch Notes – pathofexile.com 공식 포럼](https://www.pathofexile.com/forum/view-thread/4000864) (심연 서판 'of Champions' 옵션 상향 확인)
 
-**교차 확인 보조(커뮤니티)**
+### 커뮤니티 / 가이드
+- [POE2 0.5.5 서판 정규식 정리 – 디시인사이드 패스 오브 엑자일 2 마이너 갤러리](https://gall.dcinside.com/mgallery/board/view/?id=poe2&no=434179) (원본)
 - [POE2 서판 검색 정규식 생성 도구 – POE2WAY](https://www.poe2way.com/tablet/en)
 - [서판에 대해 간략하게 알려줌 – 디시인사이드 패스 오브 엑자일 2 마이너 갤러리](https://m.dcinside.com/board/poe2/300183)
-
-**공식(부분 교차 확인)**
-- [Path of Exile 2 0.5.5 Patch Notes – pathofexile.gg](https://pathofexile.gg/0-5-5-patch-notes) (심연 서판 'of Champions' 옵션 상향 확인)

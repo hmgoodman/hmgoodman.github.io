@@ -67,9 +67,11 @@ categories: ["POE2"]
 
 ## 출처
 
-**공식**
-- [Path of Exile 2 0.5.5 Patch Notes – pathofexile.gg](https://pathofexile.gg/0-5-5-patch-notes) ('of Champions' 2~3마리 상향 확인)
+### 공식
+- [Path of Exile 2 0.5.5 Patch Notes – pathofexile.com 포럼](https://www.pathofexile.com/forum/view-thread/4000864) ('of Champions' 2~3마리 상향 확인)
 
-**커뮤니티**
+### DB
 - [Abyss Tablet – PoE2DB](https://poe2db.tw/us/Abyss_Tablet)
+
+### 커뮤니티 / 가이드
 - [Abyss Juicing Tablet Tier List – Mobalytics](https://mobalytics.gg/poe-2/profile/perra/guides/abyss-juicing-tablet-tier-list)

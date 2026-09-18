@@ -54,7 +54,7 @@ categories: ["NIKKE"]
 
 ## 출처
 
-**커뮤니티**
+### 커뮤니티 / 가이드
 - [니케 최종 콘텐츠 '이상 개체 요격전' 가이드 – 게임톡](https://www.gametoc.co.kr/news/articleView.html?idxno=87820)
 - [니케 공략: 트라이브 타워와 기업 타워, 캐릭터 조합은 어떻게? – 디스이즈게임](https://www.thisisgame.com/articles/209101)
 - [시뮬레이션룸 쉽게하시나요? – 에펨코리아](https://www.fmkorea.com/9403807764)

@@ -42,7 +42,7 @@ categories: ["POE2"]
 ## 상황별 추천
 
 - **초보/저자본**: 잔재물을 적게 터뜨려 위험을 낮추고, 로그북은 모아뒀다가 안전한 옵션만 골라서 연다.
-- **고자본**: 아이템 희귀도·몬스터 희귀도·몬스터 효과가 높게 붙은 서판/경로석을 investing해 잔재물을 최대한 많이 연쇄로 터뜨린다.
+- **고자본**: 아이템 희귀도·몬스터 희귀도·몬스터 효과가 높게 붙은 서판/경로석에 투자해 잔재물을 최대한 많이 연쇄로 터뜨린다. 서판 선택 기준은 [대탐험 서판 우선순위와 중첩 효과](/posts/poe2-0-5-5-expedition-tablet-priority/) 참고.
 
 ## 주의점
 
@@ -57,10 +57,8 @@ categories: ["POE2"]
 
 ## 출처
 
-**공식/DB**
-- 없음 — 대탐험 세부 메커닉은 공식 패치노트보다 커뮤니티 가이드로 확인함(아래 참고)
-
-**커뮤니티**
+### 커뮤니티 / 가이드
+- 대탐험 세부 메커닉은 공식 패치노트보다 아래 커뮤니티 가이드로 확인했다.
 - [Expedition Guide – Mobalytics](https://mobalytics.gg/poe-2/guides/expedition)
 - [Expedition – Maxroll](https://maxroll.gg/poe2/resources/expedition)
 - [PoE2 Expedition Farming Guide – Timesaver.gg](https://timesaver.gg/blog/poe2-expedition-farming-guide)

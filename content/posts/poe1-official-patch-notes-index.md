@@ -21,7 +21,9 @@ categories: ["POE1"]
 | 3.26.0 | 2025-06-13 | Secrets of the Atlas | [링크](https://www.pathofexile.com/forum/view-thread/3787013) |
 | 3.25.0 | 2024-07-18 | Settlers of Kalguur | [링크](https://www.pathofexile.com/forum/view-thread/3531661) |
 
-날짜는 패치노트가 포럼에 게시된 날짜 기준이며, 실제 리그 시작일은 보통 며칠 뒤다(예: 3.29.0은 패치노트 게시 7/16, 리그 시작 7/24). 괄호 안 한글명은 국내 공식 퍼블리셔 카카오게임즈 보도자료 기준이다 — Keepers of the Flame, Secrets of the Atlas, Settlers of Kalguur는 공식 한글명을 확인하지 못해 영문 그대로 뒀다.
+날짜는 패치노트가 포럼에 게시된 날짜 기준이며, 실제 리그 시작일은 보통 며칠 뒤다(예: 3.29.0은 패치노트 게시 7/16, 리그 시작 7/24).
+
+괄호 안 한글명(올플레임의 저주, 허상)은 국내 퍼블리셔 카카오게임즈가 배포한 보도자료를 게임 매체가 인용 보도한 기사에서 확인한 것이다. 카카오게임즈 자체 페이지(poe.kakaogames.com)는 자바스크립트로 렌더링돼 있어 해당 페이지에서 이 한글명을 직접 재확인하지는 못했다 — 그래서 "공식 확정 명칭"이 아니라 "보도자료 인용 기준"으로 표시한다. Keepers of the Flame, Secrets of the Atlas, Settlers of Kalguur는 이런 보도조차 찾지 못해 영문 그대로 뒀다.
 
 ## 버전별 주요 후속 패치
 
@@ -52,6 +54,7 @@ categories: ["POE1"]
 - 이 글의 날짜·버전·링크는 pathofexile.com 공식 포럼에서 직접 확인한 것만 실었다. 확인되지 않은 항목은 넣지 않았다.
 - 비공식 미러(위키, 커뮤니티 정리 사이트 등)는 의도적으로 제외했다. 원문은 반드시 공식 링크에서 확인할 것.
 - POE1과 POE2는 버전 표기 체계가 다르다(POE1: 3.x.x, POE2: 0.x.x). 이 글은 POE1만 다룬다.
+- 괄호 안 한글 리그명(올플레임의 저주, 허상)은 카카오게임즈 보도자료를 인용한 게임 매체 기사 기준이며, 카카오게임즈 자체 페이지에서 직접 재확인한 건 아니다.
 
 ## 3줄 요약
 
@@ -61,7 +64,9 @@ categories: ["POE1"]
 
 ## 출처
 
-**공식**
+### 공식
 - [Patch Notes – Forum – Path of Exile](https://www.pathofexile.com/forum/view-forum/patch-notes)
 - 위 표·목록의 각 링크 (pathofexile.com/forum/view-thread/...)
-- 국내 한글 리그명: [카카오게임즈 '패스 오브 엑자일' 보도자료 – 게임뷰](https://www.gamevu.co.kr/news/articleView.html?idxno=59436)
+
+### 커뮤니티 / 가이드
+- 국내 한글 리그명 보도: [카카오게임즈 '패스 오브 엑자일' 보도자료 인용 기사 – 게임뷰](https://www.gamevu.co.kr/news/articleView.html?idxno=59436) (카카오게임즈 자체 발표를 게임 매체가 보도한 기사, 공식 홈페이지 직접 확인은 아님)

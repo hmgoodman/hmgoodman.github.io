@@ -44,11 +44,11 @@ categories: ["NIKKE"]
 
 ## 출처
 
-**공식**
+### 공식
 - [nikke-kr.com](https://nikke-kr.com/)
 - [x.com/NIKKE_kr](https://x.com/NIKKE_kr)
 - [x.com/NIKKE_en](https://x.com/NIKKE_en)
 - [game.naver.com/lounge/nikke/board/11](https://game.naver.com/lounge/nikke/board/11)
 
-**커뮤니티 (날짜 교차 확인용, 링크 출처로는 사용 안 함)**
+### 커뮤니티 / 가이드 (날짜 교차 확인용, 링크 출처로는 사용 안 함)
 - 루리웹, 아르카라이브 니케 채널의 업데이트 공지 스레드

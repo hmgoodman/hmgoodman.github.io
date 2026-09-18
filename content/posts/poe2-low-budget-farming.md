@@ -54,9 +54,9 @@ categories: ["POE2"]
 
 ## 출처
 
-**공식**
-- [Path of Exile 2 0.5.5 Patch Notes – pathofexile.gg](https://pathofexile.gg/0-5-5-patch-notes)
+### 공식
+- [Path of Exile 2 0.5.5 Patch Notes – pathofexile.com 공식 포럼](https://www.pathofexile.com/forum/view-thread/4000864)
 
-**커뮤니티**
+### 커뮤니티 / 가이드
 - [Best League Start Farming Strategies 0.5.5 – IGGM](https://www.iggm.com/news/poe-2-patch-0-5-5-best-league-start-farming-strategies-expedition-abyss-breach)
 - [PoE2 Best Farming Strategies Tier List – Timesaver.gg](https://timesaver.gg/blog/poe2-best-farming-strategies-0-5-3)

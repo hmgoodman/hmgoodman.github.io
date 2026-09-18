@@ -1,5 +1,5 @@
 ---
-title: "POE2 거래소/상점 정규식 사용법"
+title: "POE2 인게임 창고/상점 정규식 사용법"
 date: 2026-09-17T08:40:00+09:00
 draft: false
 tags: ["정규식", "스태시", "경로석"]
@@ -72,10 +72,10 @@ categories: ["POE2"]
 
 ## 출처
 
-**공식**
+### 공식
 - 없음 — 정규식 문법 자체는 게임 UI 기능이며 별도 공식 문서는 확인하지 못함
 
-**커뮤니티**
+### 커뮤니티 / 가이드
 - [Path of Exile 2 Regex System Explained – VULKK](https://vulkk.com/2026/05/29/path-of-exile-2-regex-system-explained/)
 - [PoE 2 Regex Guide – Mobalytics](https://mobalytics.gg/poe-2/guides/regex)
 - [Path of Exile 2 Regex – poe2.re](https://poe2.re/)

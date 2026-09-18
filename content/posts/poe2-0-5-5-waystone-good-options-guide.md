@@ -18,7 +18,7 @@ categories: ["POE2"]
 | **몬스터 무리 수 증가** | 맵 안에 등장하는 몬스터 무리 자체가 늘어나 전체 처치량이 올라간다. |
 | **희귀 몬스터 수 증가 / 희귀 무리 등장 확률 증가** | 희귀 몬스터는 일반 몬스터보다 드랍 기댓값이 훨씬 높아서, 이 옵션이 실제 수익과 가장 직결된다. |
 | **아이템 희귀도 증가** | 몬스터가 마법/희귀 아이템을 드랍할 확률 자체를 올려준다. |
-| **아이템 수량 증가** | 드랍되는 아이템 개수 자체를 늘려준다. 희귀도와 곱연산으로 같이 붙으면 효율이 좋다. |
+| **아이템 수량 증가** | 드랍되는 아이템 개수 자체를 늘려준다. 희귀도와 같이 붙이면 효율이 좋다고 알려져 있다(정확한 합산 방식은 확실치 않음). |
 
 체감상 **희귀 몬스터 관련 옵션 > 무리 규모/무리 수 > 아이템 희귀도·수량** 순으로 보는 의견이 많지만, 이건 커뮤니티 경험에 근거한 경향이고 공식적으로 검증된 가중치는 아니다.
 
@@ -40,7 +40,7 @@ categories: ["POE2"]
 
 보스만 잡으러 갈 때는 잡몹 관련 옵션(무리 규모, 무리 수)은 사실상 의미가 없다. 대신 아래를 본다.
 
-- **아이템 희귀도 / 수량 증가** — 보스 드랍에도 그대로 적용되므로 여전히 유효하다.
+- **아이템 희귀도 / 수량 증가** — 잡몹뿐 아니라 보스 드랍에도 영향을 준다고 알려져 있다(정확히 같은 배율로 적용되는지는 확실치 않음).
 - **위험 옵션 최소화** — 잡몹을 거의 안 상대하니 위험 옵션으로 얻는 이득이 적은데, 보스전에서 저항 감소·회복 감소 같은 옵션이 붙어 있으면 순수하게 손해만 본다. 보스런용 경로석은 위험 옵션이 없는 걸 우선으로 고르는 편이 낫다.
 - 보스 전용으로 작동하는 별도 옵션이 있는지는 **확실치 않음**. 확인되면 추가하겠다.
 
@@ -48,11 +48,11 @@ categories: ["POE2"]
 
 심연(Abyss) 파밍은 [심연 서판 자체의 옵션](/posts/poe2-0-5-5-abyssal-ravine-farming-guide/)이 밀도를 담당하고, 경로석은 맵 전체의 몬스터 밀도·희귀 비중을 보조한다.
 
-- **희귀 몬스터 관련 옵션(수 증가, 무리 등장 확률)** — 심연 안에서 나오는 희귀 몬스터 보상과 곱연산으로 겹친다.
+- **희귀 몬스터 관련 옵션(수 증가, 무리 등장 확률)** — 심연 안에서 나오는 희귀 몬스터 보상과 함께 겹쳐서 적용된다.
 - **무리 규모 증가** — 심연 구덩이 안 몬스터 수 자체를 늘려준다.
 - **아이템 희귀도/수량** — 다른 콘텐츠와 마찬가지로 기본으로 챙긴다.
 
-심연 서판 옵션과 경로석 옵션이 실제로 몇 배까지 곱연산으로 겹치는지는 공식적으로 공개된 수치가 없어 **확정적으로 말할 수 없음**.
+심연 서판 옵션과 경로석 옵션이 겹치는 방식(가산인지 곱연산인지 포함)과 정확한 배율 모두 공식적으로 공개된 바 없다. **확정적으로 말할 수 없음**.
 
 ## 5. 대탐험(Expedition)에 좋은 옵션
 
@@ -98,9 +98,16 @@ categories: ["POE2"]
 
 ### 출처
 
+### 공식
+- 없음 — 이 글의 옵션 합산 방식(가산/곱연산)과 정확한 배율은 공식적으로 확인되지 않았다.
+
+### DB
+- [Waystone – PoE2DB](https://poe2db.tw/us/)
+- [몬스터 희귀도 – PoE2DB](https://poe2db.tw/us/)
+
+### 커뮤니티 / 가이드
 - [Complete Waystone Guide – Game8](https://game8.co/games/Path-of-Exile-2/archives/498459)
 - [Rolling Waystones and Precursor Tablets – Maxroll](https://maxroll.gg/poe2/resources/rolling-waystones-and-precursor-tablets)
 - [List of modifiers for waystones (high tier) – poe2wiki.net](https://www.poe2wiki.net/wiki/List_of_modifiers_for_waystones_(high_tier))
 - [PoE 2 0.5.5 Expedition Farm: Tablets, Rumors, Logbooks, Atlas, Map Strategy – AOEAH](https://www.aoeah.com/news/4804--poe-2-055-expedition-farm-tablets-rumors-logbooks-atlas-map-strategy)
 - [POE2, '드롭률 세팅' 가이드 – 게임플](https://www.gameple.co.kr/news/articleView.html?idxno=211424)
-- [Waystone – PoE2DB](https://poe2db.tw/us/)

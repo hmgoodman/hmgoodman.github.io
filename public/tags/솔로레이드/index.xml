@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>솔로레이드 on 게임 메모장</title><link>https://hmgoodman.github.io/tags/%EC%86%94%EB%A1%9C%EB%A0%88%EC%9D%B4%EB%93%9C/</link><description>Recent content in 솔로레이드 on 게임 메모장</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Thu, 17 Sep 2026 14:05:00 +0900</lastBuildDate><atom:link href="https://hmgoodman.github.io/tags/%EC%86%94%EB%A1%9C%EB%A0%88%EC%9D%B4%EB%93%9C/index.xml" rel="self" type="application/rss+xml"/><item><title>니케 솔로레이드 / 유니온레이드 / 협동작전 차이</title><link>https://hmgoodman.github.io/posts/nikke-solo-union-coop-raid-differences/</link><pubDate>Thu, 17 Sep 2026 14:05:00 +0900</pubDate><guid>https://hmgoodman.github.io/posts/nikke-solo-union-coop-raid-differences/</guid><description>&lt;p&gt;짧은 요약:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;솔로레이드&lt;/strong&gt;는 혼자, &lt;strong&gt;유니온레이드&lt;/strong&gt;는 길드(유니온) 단위, &lt;strong&gt;협동작전&lt;/strong&gt;은 최대 2인이 함께 하는 콘텐츠다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;솔로레이드&lt;/strong&gt;는 혼자, &lt;strong&gt;유니온레이드&lt;/strong&gt;는 길드(유니온) 단위, &lt;strong&gt;협동작전&lt;/strong&gt;은 다른 유저 4명과 함께(총 5인) 하는 콘텐츠다.&lt;/li&gt;
 &lt;li&gt;상시 열려 있는 건 &lt;strong&gt;협동작전&lt;/strong&gt;뿐이고, 솔로레이드·유니온레이드는 &lt;strong&gt;기간을 두고 열리고 닫힌다.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;하루 도전 횟수는 셋 다 대체로 &lt;strong&gt;3회 제한&lt;/strong&gt;으로 알려져 있다(정확한 수치는 아래 주의점 참고).&lt;/li&gt;
 &lt;/ul&gt;
@@ -27,15 +27,15 @@
 &lt;td&gt;유니온레이드&lt;/td&gt;
 &lt;td&gt;유니온(길드)&lt;/td&gt;
 &lt;td&gt;유니온원 1인당 최대 3회&lt;/td&gt;
-&lt;td&gt;매주 목·금 진행, 토요일 정산 보상 지급&lt;/td&gt;
+&lt;td&gt;매주 목·금요일 정산, 토요일에 랭킹 보상 우편 지급&lt;/td&gt;
 &lt;td&gt;큐브 강화 재화, 부서진 코어 교환 아이템&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;협동작전&lt;/td&gt;
-&lt;td&gt;최대 2인&lt;/td&gt;
-&lt;td&gt;단계 보상은 하루 3회, 도전모드는 계속 참여 가능&lt;/td&gt;
-&lt;td&gt;상시 개방&lt;/td&gt;
-&lt;td&gt;부서진 코어, 고철 뼈다귀 교환 아이템&lt;/td&gt;
+&lt;td&gt;5인(본인 포함, 각자 니케 1기씩 참전)&lt;/td&gt;
+&lt;td&gt;참여 보상은 하루 3회(참여만 해도 지급), 도전모드는 계속 참여 가능&lt;/td&gt;
+&lt;td&gt;상시 개방(다만 최초 도입 시점엔 정해진 오픈 일정이 공지된 바 있음)&lt;/td&gt;
+&lt;td&gt;부서진 코어(하루 3회분 약 1200개 상당), 고철 뼈다귀 교환 아이템&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

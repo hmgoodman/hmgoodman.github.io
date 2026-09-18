@@ -49,6 +49,6 @@ categories: ["NIKKE"]
 
 ## 출처
 
-**커뮤니티**
+### 커뮤니티 / 가이드
 - [놓치면 손해! 이벤트, 상점, 콘텐츠 일일 체크리스트 – 니케 인벤](https://www.inven.co.kr/board/nikke/5969/19)
 - [매일 하는 일퀘 컨텐츠 정리 – arca.live 니케 채널](https://arca.live/b/nikketgv/64325992)
