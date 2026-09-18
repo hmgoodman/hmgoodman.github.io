@@ -1,3 +1,85 @@
+/* ==========================================================================
+   Dark-only theme: color palette
+   Site is forced to data-theme="dark" (hugo.toml: defaultTheme + disableThemeToggle),
+   so this simply overrides the theme's built-in dark palette with a calmer,
+   less contrasty one. No light-mode block needed since light mode never renders.
+   ========================================================================== */
+:root[data-theme="dark"] {
+    --theme: #0a0c11;       /* page background (solid fallback) */
+    --entry: #181c25;       /* cards / content boxes — one step lighter than page bg */
+    --primary: #e6e9ef;     /* headings, links, emphasized text — off-white, not pure white */
+    --content: #cad0db;     /* body text — a touch dimmer than headings */
+    --secondary: #98a0ac;   /* meta text, captions, muted labels */
+    --tertiary: #333a47;    /* hover borders, subtle fills */
+    --border: #262b35;      /* card/table borders — low contrast on purpose */
+    --code-bg: #10131a;     /* inline code — darker than a card */
+    --code-block-bg: #0d0f15; /* code blocks — darkest surface on the page */
+    --radius: 12px;         /* slightly rounder cards (was 8px) */
+    color-scheme: dark;
+}
+
+/* Page background: subtle navy-charcoal gradient + faint grid, CSS-only (no images,
+   not background-attachment:fixed, so it costs nothing on scroll/mobile). */
+body,
+body.list {
+    background-color: #0a0c11 !important;
+    background-image:
+        linear-gradient(180deg, #12151d 0%, #0a0c11 100%),
+        linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px) !important;
+    background-size: 100% 100%, 56px 56px, 56px 56px !important;
+}
+
+/* Cards: subtle lift + shadow, no glow */
+.post-entry {
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
+}
+
+.post-entry:hover,
+.post-entry:focus-within {
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.4);
+}
+
+/* In-content links: muted blue accent so they read as links without glowing */
+.md-content a:not(.anchor) {
+    color: #8ab4ff;
+}
+
+.md-content a:not(.anchor):hover {
+    color: #aecaff;
+}
+
+/* Table header: a touch brighter than the card, dividers stay visible via existing borders */
+.md-content table th {
+    background: var(--tertiary);
+    color: var(--primary);
+}
+
+/* Scrollbar: quiet, matches the dark palette */
+html {
+    scrollbar-width: thin;
+    scrollbar-color: var(--tertiary) var(--theme);
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--theme);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--tertiary);
+    border-radius: 8px;
+    border: 2px solid var(--theme);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #3d4552;
+}
+
 /* Mobile-friendly tables: scroll horizontally instead of breaking the layout */
 .md-content table {
     display: block;
