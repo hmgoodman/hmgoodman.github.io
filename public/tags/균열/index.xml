@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>균열 on 게임 메모장</title><link>https://hmgoodman.github.io/tags/%EA%B7%A0%EC%97%B4/</link><description>Recent content in 균열 on 게임 메모장</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Thu, 17 Sep 2026 09:05:00 +0900</lastBuildDate><atom:link href="https://hmgoodman.github.io/tags/%EA%B7%A0%EC%97%B4/index.xml" rel="self" type="application/rss+xml"/><item><title>POE2 0.5.5 파밍법 비교 - 심연 / 대탐험 / 의식 / 균열 / 환영</title><link>https://hmgoodman.github.io/posts/poe2-0-5-5-farming-methods-comparison/</link><pubDate>Thu, 17 Sep 2026 09:05:00 +0900</pubDate><guid>https://hmgoodman.github.io/posts/poe2-0-5-5-farming-methods-comparison/</guid><description>&lt;p&gt;짧은 요약:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;진입 장벽이 가장 낮은 건 &lt;strong&gt;균열&lt;/strong&gt;, 요구 스펙이 가장 높은 건 &lt;strong&gt;대탐험&lt;/strong&gt;이다.&lt;/li&gt;
-&lt;li&gt;초보는 &lt;strong&gt;균열 → 심연/환영 → (스펙 갖춘 뒤) 대탐험&lt;/strong&gt; 순으로 넘어가는 걸 추천.&lt;/li&gt;
+&lt;li&gt;초보는 &lt;strong&gt;균열 → 환영 → (스펙 갖춘 뒤) 대탐험&lt;/strong&gt; 순으로 넘어가는 걸 추천. 심연은 서판 시세에 따라 수익성이 크게 갈려 별도로 다룬다(아래 참고).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;의식&lt;/strong&gt;은 현재 니치 전략으로 분류되는 경우가 많다(오멘 시세에 좌우됨).&lt;/li&gt;
 &lt;li&gt;정확한 시간당 수익 수치는 빌드·숙련도·시세에 따라 편차가 커서 이 글에는 넣지 않았다.&lt;/li&gt;
 &lt;/ul&gt;
@@ -26,7 +26,7 @@
 &lt;td&gt;심연&lt;/td&gt;
 &lt;td&gt;심연 서판&lt;/td&gt;
 &lt;td&gt;낮음~중간 — 균열 따라 이동, 반복 클리어&lt;/td&gt;
-&lt;td&gt;좋음&lt;/td&gt;
+&lt;td&gt;조작은 쉬우나 서판 가격 대비 회수 실패 사례 있음(주의)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;환영&lt;/td&gt;

@@ -62,9 +62,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;심연&lt;/td&gt;
-&lt;td&gt;여러 장&lt;/td&gt;
-&lt;td&gt;중간&lt;/td&gt;
-&lt;td&gt;서판 투자만큼 보상이 늘어나는 구조&lt;/td&gt;
+&lt;td&gt;여러 장, 고급 서판은 수 디바인대&lt;/td&gt;
+&lt;td&gt;비추천(실전 기준)&lt;/td&gt;
+&lt;td&gt;사용자 실전 테스트에서 서판 비용을 회수하지 못함 — 아래 주의점 참고&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;의식&lt;/td&gt;
@@ -85,7 +85,7 @@
 &lt;p&gt;균열은 서판 몇 장만으로도 돌릴 수 있어 저자본 구간에서 가장 부담이 적다고 평가된다(커뮤니티 제보). 0.5.5에서 불안정 균열의 희귀 몬스터가 한 번에 몰려나오지 않고 5마리씩 웨이브로 나오게 바뀌어(공식 패치노트), 저스펙 빌드도 순간적으로 몰리는 위험이 줄었다.&lt;/p&gt;</description></item><item><title>POE2 0.5.5 파밍법 비교 - 심연 / 대탐험 / 의식 / 균열 / 환영</title><link>https://hmgoodman.github.io/posts/poe2-0-5-5-farming-methods-comparison/</link><pubDate>Thu, 17 Sep 2026 09:05:00 +0900</pubDate><guid>https://hmgoodman.github.io/posts/poe2-0-5-5-farming-methods-comparison/</guid><description>&lt;p&gt;짧은 요약:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;진입 장벽이 가장 낮은 건 &lt;strong&gt;균열&lt;/strong&gt;, 요구 스펙이 가장 높은 건 &lt;strong&gt;대탐험&lt;/strong&gt;이다.&lt;/li&gt;
-&lt;li&gt;초보는 &lt;strong&gt;균열 → 심연/환영 → (스펙 갖춘 뒤) 대탐험&lt;/strong&gt; 순으로 넘어가는 걸 추천.&lt;/li&gt;
+&lt;li&gt;초보는 &lt;strong&gt;균열 → 환영 → (스펙 갖춘 뒤) 대탐험&lt;/strong&gt; 순으로 넘어가는 걸 추천. 심연은 서판 시세에 따라 수익성이 크게 갈려 별도로 다룬다(아래 참고).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;의식&lt;/strong&gt;은 현재 니치 전략으로 분류되는 경우가 많다(오멘 시세에 좌우됨).&lt;/li&gt;
 &lt;li&gt;정확한 시간당 수익 수치는 빌드·숙련도·시세에 따라 편차가 커서 이 글에는 넣지 않았다.&lt;/li&gt;
 &lt;/ul&gt;
@@ -110,7 +110,7 @@
 &lt;td&gt;심연&lt;/td&gt;
 &lt;td&gt;심연 서판&lt;/td&gt;
 &lt;td&gt;낮음~중간 — 균열 따라 이동, 반복 클리어&lt;/td&gt;
-&lt;td&gt;좋음&lt;/td&gt;
+&lt;td&gt;조작은 쉬우나 서판 가격 대비 회수 실패 사례 있음(주의)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;환영&lt;/td&gt;

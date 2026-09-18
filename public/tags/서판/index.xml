@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>서판 on 게임 메모장</title><link>https://hmgoodman.github.io/tags/%EC%84%9C%ED%8C%90/</link><description>Recent content in 서판 on 게임 메모장</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Fri, 18 Sep 2026 09:00:00 +0900</lastBuildDate><atom:link href="https://hmgoodman.github.io/tags/%EC%84%9C%ED%8C%90/index.xml" rel="self" type="application/rss+xml"/><item><title>POE2 0.5.5 대탐험 서판 우선순위와 중첩 효과</title><link>https://hmgoodman.github.io/posts/poe2-0-5-5-expedition-tablet-priority/</link><pubDate>Fri, 18 Sep 2026 09:00:00 +0900</pubDate><guid>https://hmgoodman.github.io/posts/poe2-0-5-5-expedition-tablet-priority/</guid><description>&lt;p&gt;짧은 요약:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;대탐험 서판(Expedition Precursor Tablet)은 접두사(범용 수량/희귀도)와 접미사(대탐험 전용 — 잔재물 드랍량 증가)로 나뉜다.&lt;/li&gt;
-&lt;li&gt;한 타워에 서판은 &lt;strong&gt;최대 3장&lt;/strong&gt;까지 꽂을 수 있고, 수량·희귀도 계열 옵션은 여러 장 겹쳐도 그대로 누적된다.&lt;/li&gt;
+&lt;li&gt;한 타워에 서판은 기본 &lt;strong&gt;3장&lt;/strong&gt;까지 꽂을 수 있고, 특정 아틀라스 패시브를 찍고 &lt;strong&gt;도시 지형(City Biome) 맵&lt;/strong&gt;에서는 &lt;strong&gt;4장&lt;/strong&gt;까지 늘어난다. 수량·희귀도 계열 옵션은 여러 장 겹쳐도 그대로 누적된다.&lt;/li&gt;
 &lt;li&gt;반대로 &amp;ldquo;대탐험 등장&amp;rdquo; 같은 온/오프 방식 옵션은 같은 종류를 여러 장 꽂아도 중복 적용되지 않는다. 다른 종류의 서판(예: 대탐험+균열)을 같이 꽂는 건 가능하다.&lt;/li&gt;
 &lt;li&gt;정확한 옵션별 수치(%) 목록은 공식적으로 공개되지 않아 이 글에서 다루지 않는다. 접두사/접미사 구조와 중첩 규칙 위주로 정리했다.&lt;/li&gt;
 &lt;/ul&gt;
@@ -32,7 +32,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;타워당 서판 수&lt;/td&gt;
-&lt;td&gt;최대 3장&lt;/td&gt;
+&lt;td&gt;기본 3장, 도시 지형 맵 + 아틀라스 패시브로 4장까지&lt;/td&gt;
 &lt;td&gt;커뮤니티/가이드&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
