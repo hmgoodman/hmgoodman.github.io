@@ -12,6 +12,8 @@
 
 {{- $poe2 := where site.RegularPages "Params.categories" "intersect" (slice "POE2") }}
 {{- $poe2 = $poe2.ByDate.Reverse }}
+{{- $poe1 := where site.RegularPages "Params.categories" "intersect" (slice "POE1") }}
+{{- $poe1 = $poe1.ByDate.Reverse }}
 {{- $nikke := where site.RegularPages "Params.categories" "intersect" (slice "NIKKE") }}
 {{- $nikke = $nikke.ByDate.Reverse }}
 {{- $all := site.RegularPages.ByDate.Reverse }}
@@ -27,6 +29,21 @@
         {{- end }}
         {{- if not $poe2 }}
         <p class="home-empty">아직 POE2 글이 없습니다.</p>
+        {{- end }}
+    </div>
+</section>
+
+<section class="home-section">
+    <div class="home-section-head">
+        <h2>POE1 최신 글</h2>
+        <a class="home-more" href="{{ "categories/poe1/" | relURL }}">더 보기 →</a>
+    </div>
+    <div class="home-card-grid">
+        {{- range first 5 $poe1 }}
+        {{- partial "home_entry.html" . }}
+        {{- end }}
+        {{- if not $poe1 }}
+        <p class="home-empty">아직 POE1 글이 없습니다.</p>
         {{- end }}
     </div>
 </section>
@@ -63,6 +80,7 @@
         <h3>카테고리</h3>
         <ul class="home-aside-list">
             <li><a href="{{ "categories/poe2/" | relURL }}">POE2</a> <span class="count">({{ len $poe2 }})</span></li>
+            <li><a href="{{ "categories/poe1/" | relURL }}">POE1</a> <span class="count">({{ len $poe1 }})</span></li>
             <li><a href="{{ "categories/nikke/" | relURL }}">NIKKE</a> <span class="count">({{ len $nikke }})</span></li>
         </ul>
     </div>
